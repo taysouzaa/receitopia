@@ -1,4 +1,4 @@
-# # 🍽️ RECEITOPIA
+# 🍽️ RECEITOPIA
 
 Inspire-se, cozinhe e compartilhe sabores inesquecíveis.
 
